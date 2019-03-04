@@ -6,7 +6,7 @@ EXTENSIONS=(
   "dbaeumer.jshint"
   "dbaeumer.vscode-eslint"
   "eamodio.gitlens"
-  "eg2.tslint"
+  "ms-vscode.vscode-typescript-tslint-plugin"
   "HookyQR.beautify"
   "kumar-harsh.graphql-for-vscode"
   "mauve.terraform"
